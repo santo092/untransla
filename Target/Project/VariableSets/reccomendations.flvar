@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Shoes"
+    EvaluatedDefinition="Hiking/Trail">Hiking/Trail</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="PhoneNumber"
+    Comment=""
+    EvaluatedDefinition="11111">11111</Variable>
+  <Variable
+    Name="Water"
+    Comment=""
+    EvaluatedDefinition="for hiking">for hiking</Variable>
+  <Variable
+    Name="Backpack"
+    Comment=""
+    EvaluatedDefinition="Enough to hold essentials">Enough to hold essentials</Variable>
+</CatapultVariableSet>

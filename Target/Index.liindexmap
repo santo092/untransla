@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Lorem</Key>
+  <OldValue>Lorem</OldValue>
+  <NewValue>Lorem</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Nullam</Key>
+  <OldValue>Nullam</OldValue>
+  <NewValue>Nullam</NewValue>
+</Entry>
+</StringMap>

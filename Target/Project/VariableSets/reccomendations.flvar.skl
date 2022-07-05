@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="Shoes" EvaluatedDefinition="Hiking/Trail">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="PhoneNumber" Comment="" EvaluatedDefinition="11111">砻קยด3ตว融</Variable>
+    <Variable Name="Water" Comment="" EvaluatedDefinition="for hiking">砻קยด4ตว融</Variable>
+    <Variable Name="Backpack" Comment="" EvaluatedDefinition="Enough to hold essentials">砻קยด5ตว融</Variable>
+</CatapultVariableSet>

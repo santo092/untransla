@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>砻קยด2ตว融</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>
+            <img src="../Resources/Images/galen.jpg" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" style="float: left;left: 10px;top: 174px;border-left-style: none;border-left-width: 50px;border-left-color: #ffffff;border-right-style: solid;border-right-width: 30px;border-right-color: #ffffff;border-top-style: none;border-top-width: 15px;border-bottom-style: none;" /> </p>
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/quotesnippet.flsnp" />
+        </p>
+    </body>
+</html>
